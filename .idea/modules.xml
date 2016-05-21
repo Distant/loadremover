@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loadremover.iml" filepath="$PROJECT_DIR$/.idea/modules/loadremover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loadremover_main.iml" filepath="$PROJECT_DIR$/.idea/modules/loadremover_main.iml" group="loadremover" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loadremover_test.iml" filepath="$PROJECT_DIR$/.idea/modules/loadremover_test.iml" group="loadremover" />
+    </modules>
+  </component>
+</project>
